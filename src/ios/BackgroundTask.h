@@ -9,5 +9,6 @@
 @interface BackgroundTask : CDVPlugin
 
 - (void) start:(CDVInvokedUrlCommand*)command;
+- (void) finish:(CDVInvokedUrlCommand*)command;
 
 @end

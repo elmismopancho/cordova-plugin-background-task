@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-background-task" version="0.2.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-background-task" version="1.0.0">
     <name>Background Task</name>
-    <author>Lee Crossley (http://ilee.co.uk/)</author>
+    <author>elMismoPancho (http://elmismopancho.cl)</author>
     <description>Cordova / PhoneGap Plugin for running background tasks (will also run for up to 3 minutes after the app is suspended).</description>
     <keywords>cordova, background, task, suspend</keywords>
     <license>MIT</license>
